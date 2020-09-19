@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Hand</OriginalElement>
+  <nodes>
+    <node x="0.0" y="136.0">Hand</node>
+    <node x="10.0" y="0.0">Organ</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Hand" target="Organ">
+      <point x="0.0" y="-43.0" />
+      <point x="0.0" y="43.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="-160.5" y="115.0" />
+  <SelectedNodes>
+    <node>Hand</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
